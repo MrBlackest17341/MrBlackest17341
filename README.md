@@ -7,6 +7,6 @@ Hello! My name is Mr. Blackest. I'm an ordinary person who loves programming. I'
 # Languages
 [![C#](https://img.shields.io/badge/-Sharp-090909?style=for-the-badge&logo=C)](https://ru.wikipedia.org/wiki/C_Sharp)
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
-[![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html)](https://ru.wikipedia.org/wiki/HTML)
+[![HTML](https://img.shields.io/badge/-Html-090909e-badge&logo=Html)](https://ru.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)](https://ru.wikipedia.org/wiki/CSS)
 [![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JS)](https://ru.wikipedia.org/wiki/JS)
