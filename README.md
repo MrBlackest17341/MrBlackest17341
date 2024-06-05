@@ -6,7 +6,7 @@ Hi! My name is Mr Blackest. I'm a regular person who loves programming. I'm a we
 <h1>Languages</h1>
 
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
-[![JS]([https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=JS)](https://ru.wikipedia.org/wiki/JS)
+[![JS]([https://img.shields.io/badge/-Js-090909?style=for-the-badge&logo=Js)](https://ru.wikipedia.org/wiki/JS)
 [![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)](https://ru.wikipedia.org/wiki/Php)
 [![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html)](https://ru.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)](https://ru.wikipedia.org/wiki/CSS)
