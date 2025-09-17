@@ -35,14 +35,27 @@ Hi! My name is **Mr Blackest**.
 
 ---
 
-# 📚 Education & Courses  
-- 🎓 **Course:** Codefinity  
-- 🏆 **Achievements:** Small, but growing -_-  
+## 🛠️ Tools  
+
+[![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)](https://github.com/)  
+[![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)](https://www.docker.com/)  
+[![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux)](https://www.linux.org/)  
+[![VS Code](https://img.shields.io/badge/-VS%20Code-090909?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com/)  
+[![JetBrains](https://img.shields.io/badge/-JetBrains-090909?style=for-the-badge&logo=jetbrains)](https://www.jetbrains.com/)  
+[![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)](https://www.figma.com/)  
+
+---
+
+# 📚 Courses  
+- 🎓 **Course:** [Codefinity](https://codefinity.com/)  
 
 ---
 
 # 🌍 Languages  
-- 🇬🇧 **English:** Intermediate (still fighting for B1 😢)  
+- 🇬🇧 **English:** Intermediate
+- 🇺🇦 **Ukrainian:** Native  
+- 🇷🇺 **Russian:** Native  
 
 ---
 
@@ -56,7 +69,7 @@ Hi! My name is **Mr Blackest**.
 # 📫 Contacts  
 - 🌐 **Portfolio Website**: _coming soon..._  
 - 💬 **Telegram**: [@MrBlackest](https://t.me/MrBlackest)  
-- 📧 **Email**: your@email.com  
+- 📧 **Email**: yroslavfomin.2007@gmail.com 
 
 ---
 
