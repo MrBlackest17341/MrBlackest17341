@@ -8,9 +8,9 @@ Hi! My name is **Mr Blackest**.
 
 ---
 
-# 👨‍💻 Professions  
+## 👨‍💻 Professions  
 
-## 🔹 Embedded Developer  
+### 🔹 Embedded Developer  
 - **Experience:** `0.5 years`  
 - **Hard Skills:**  
   [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
@@ -22,7 +22,7 @@ Hi! My name is **Mr Blackest**.
 
 ---
 
-## 🔹 Frontend Developer  
+### 🔹 Frontend Developer  
 - **Experience:** `2 years`  
 - **Hard Skills:**  
   [![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
@@ -47,19 +47,19 @@ Hi! My name is **Mr Blackest**.
 
 ---
 
-# 📚 Courses  
+## 📚 Courses  
 - 🎓 **Course:** [Codefinity](https://codefinity.com/)  
 
 ---
 
-# 🌍 Languages  
-- 🇬🇧 **English:** Intermediate
+## 🌍 Languages  
+- 🇬🇧 **English:** Intermediate  
 - 🇺🇦 **Ukrainian:** Native  
 - 🇷🇺 **Russian:** Native  
 
 ---
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrblackest&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrblackest&layout=compact&theme=radical)
