@@ -2,7 +2,7 @@
 
 # 👋 About Me  
 Hi! My name is **Mr Blackest**.  
-💻 I'm a **Web & Embedded Developer** who enjoys mixing code with creativity.  
+💻 I'm a **Embedded Developer** who enjoys mixing code with creativity.  
 ⚡ At first glance, I may seem **aggressive**, but deep down I'm calm (at least I hope so 😅).  
 🎯 If I set a goal – I **pursue it to the very end**.  
 
