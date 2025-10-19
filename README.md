@@ -11,7 +11,7 @@ Hi! My name is **Mr Blackest**.
 ## 👨‍💻 Professions  
 
 ### 🔹 Embedded Developer  
-- **Experience:** `0.5 years`  
+- **Experience:** `1 years`  
 - **Hard Skills:**  
   [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](https://ru.wikipedia.org/wiki/Python)
   [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2B%2B)](https://ru.wikipedia.org/wiki/C%2B%2B)  
