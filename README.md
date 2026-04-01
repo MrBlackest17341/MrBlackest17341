@@ -55,16 +55,7 @@ Hi! My name is **Mr Blackest**.
 ## 🌍 Languages  
 - 🇬🇧 **English:** Intermediate  
 - 🇺🇦 **Ukrainian:** Native  
-- 🇷🇺 **Russian:** Native  
-
----
-
-## 📊 GitHub Stats  
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrBlackest17341&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBlackest17341&layout=compact&theme=radical" width="48%" />
-</p>
+- 🇷🇺 **Russian:** Native
 
 ---
 
