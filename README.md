@@ -61,8 +61,10 @@ Hi! My name is **Mr Blackest**.
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrBlackest17341&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBlackest17341&layout=compact&theme=radical)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBlackest17341&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrBlackest17341&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
